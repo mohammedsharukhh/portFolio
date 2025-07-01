@@ -52,7 +52,7 @@ const Hero: React.FC<HeroProps> = ({ scrollToSection }) => {
             <div className={`absolute inset-0 rounded-full ${currentTheme.gradient} p-1`}>
               <div className="w-full h-full rounded-full bg-black flex items-center justify-center">
                 <img
-                  src="/photo.jpeg"
+                  src="../assets/photo.jpeg"
                   alt="Profile"
                   className="w-44 h-44 rounded-full object-cover"
                 />
