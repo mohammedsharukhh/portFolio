@@ -84,7 +84,7 @@ const Hero: React.FC<HeroProps> = ({ scrollToSection }) => {
           <p className="text-lg sm:text-xl text-gray-300 max-w-3xl mx-auto leading-relaxed">
             Crafting seamless web experiences with cutting-edge technologies. 
             Passionate about creating innovative solutions that bridge the gap between 
-            design and functionality.
+            design and functionality..
           </p>
 
           {/* CTA Buttons */}
