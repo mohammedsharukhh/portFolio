@@ -97,7 +97,7 @@ const Hero: React.FC<HeroProps> = ({ scrollToSection }) => {
             </button>
             <button className="px-8 py-3 rounded-lg font-semibold border border-white/20 text-white hover:bg-white/5 transition-all duration-300 flex items-center space-x-2">
               <Download className="w-4 h-4" />
-              <span>Download CV</span>
+              <a href='/sharuk.pdf' download="sharuk.pdf">Download CV</a>
             </button>
           </div>
 
